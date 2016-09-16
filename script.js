@@ -13,6 +13,7 @@ var norms = [
   'We are resourceful – it’s okay if we don’t know the answer, we’ll find it expeditiously and get back to our client.',
   'We frequently practice the “Around the Horn” tradition.',
   'A sense of humor is a job requirement.'
+  'Everyone has to sleep with a light on'
 ];
 
 function printRandomNorm() {
